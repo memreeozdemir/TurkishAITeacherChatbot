@@ -6,21 +6,21 @@ This project is designed to create an AI-powered chatbot for teaching Turkish Se
 
 The chatbot facilitates Turkish language learning by:
 
-Teaching concepts like semantic events in sentences.
-Engaging users through Socratic questioning, encouraging critical thinking.
-Utilizing content extracted from PDF documents to enrich learning.
-Leveraging LangChain to manage conversation flow and memory efficiently.
-Adapting dynamically to user responses and conversation contexts.
+1. Teaching concepts like semantic events in sentences.
+2. Engaging users through Socratic questioning, encouraging critical thinking.
+3. Utilizing content extracted from PDF documents to enrich learning.
+4. Leveraging LangChain to manage conversation flow and memory efficiently.
+5. Adapting dynamically to user responses and conversation contexts.
 
 
 ## Key Features
 
 
-Socratic Method: Guides users through questions to enhance understanding.
-Interactive Dialogs: Adjusts based on user input, ensuring contextual relevance.
-LangChain Integration: Enables advanced conversational memory and logical flows.
-PDF Integration: Extracts and organizes content from PDF files for educational purposes.
-ChromaDB: Stores and retrieves processed PDF data for quick access.
+1. Socratic Method: Guides users through questions to enhance understanding.
+2. Interactive Dialogs: Adjusts based on user input, ensuring contextual relevance.
+3. LangChain Integration: Enables advanced conversational memory and logical flows.
+4. PDF Integration: Extracts and organizes content from PDF files for educational purposes.
+5. ChromaDB: Stores and retrieves processed PDF data for quick access.
 
 
 ## Installation
@@ -117,7 +117,7 @@ By combining these components, the chatbot achieves a seamless and intelligent l
 
 
 ## Possible Improvements
-Multi-Language Support: Expand beyond Turkish for broader usage.
-Interactive Exercises: Add quizzes and practical examples to reinforce learning.
-Personalized Lessons: Track user progress and tailor lessons accordingly.
-Voice Interaction: Enable voice-based communication for accessibility.
+1. Multi-Language Support: Expand beyond Turkish for broader usage.
+2. Interactive Exercises: Add quizzes and practical examples to reinforce learning.
+3. Personalized Lessons: Track user progress and tailor lessons accordingly.
+4. Voice Interaction: Enable voice-based communication for accessibility.
